@@ -34,7 +34,7 @@ Future releases will expand compatibility to support execution via the MATLAB Ru
 1. Download the latest release file, `GSCA-Prime-<version>.mltbx`, from the [GitHub Releases page](https://github.com/PsycheMatrica/GSCA_Prime/releases).  
 2. In MATLAB, install by double-clicking the file or by running:
    ```matlab
-   matlab.addons.toolbox.installToolbox('GSCA-Prime-1.0.0.mltbx')
+   matlab.addons.toolbox.installToolbox('GSCA-Prime-1.0.3.mltbx')
    ```
 3. Once installed, the package is automatically added to the MATLAB path:
    ```matlab
